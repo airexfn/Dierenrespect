@@ -72,6 +72,11 @@ Website over dierenleed
         .cta:hover {
             background-color: #218838;
         }
+
+        .social {
+            margin-top: 15px;
+            font-size: 16px;
+        }
     </style>
 </head>
 <body>
@@ -118,8 +123,11 @@ Website over dierenleed
 
 <footer>
     <p>&copy; 2025 DierenRespect. Alle rechten voorbehouden.</p>
+    <p class="social">Volg ons op Instagram: <a href="https://www.instagram.com/goed_omgaan_met_dieren_25" target="_blank">@goed_omgaan_met_dieren_25</a></p>
 </footer>
 
 </body>
 </html>
+
+
 
