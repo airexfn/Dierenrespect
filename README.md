@@ -128,6 +128,20 @@ Website over dierenleed
 
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welkom bij DierenRespect</title>
+</head>
+<body>
+    <h1>Welkom op onze website!</h1>
+    <p>We staan voor dierenrespect en tegen dierenmishandeling.</p>
+</body>
+</html>
+
+
 
 
 
