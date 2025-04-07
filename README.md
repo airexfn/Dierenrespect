@@ -1,143 +1,86 @@
-# Dierenrespect
-Website over dierenleed
 <!DOCTYPE html>
 <html lang="nl">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dierenrespect en Tegen Dierenmishandeling</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 0;
-        }
-
-        header {
-            background-color: #1e90ff;
-            color: white;
-            padding: 15px 0;
-            text-align: center;
-        }
-
-        nav {
-            background-color: #333;
-            overflow: hidden;
-        }
-
-        nav a {
-            float: left;
-            display: block;
-            color: white;
-            padding: 14px 20px;
-            text-align: center;
-            text-decoration: none;
-        }
-
-        nav a:hover {
-            background-color: #ddd;
-            color: black;
-        }
-
-        section {
-            padding: 20px;
-        }
-
-        footer {
-            text-align: center;
-            background-color: #333;
-            color: white;
-            padding: 10px 0;
-            position: fixed;
-            width: 100%;
-            bottom: 0;
-        }
-
-        .important {
-            color: red;
-            font-weight: bold;
-        }
-
-        .cta {
-            background-color: #28a745;
-            color: white;
-            padding: 10px 20px;
-            text-align: center;
-            font-size: 18px;
-            cursor: pointer;
-            margin-top: 20px;
-        }
-
-        .cta:hover {
-            background-color: #218838;
-        }
-
-        .social {
-            margin-top: 15px;
-            font-size: 16px;
-        }
-    </style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dierenrespect</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f8f8f8;
+      color: #333;
+    }
+    header {
+      background-color: #4caf50;
+      color: white;
+      padding: 1.5rem;
+      text-align: center;
+    }
+    main {
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 1rem;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    section {
+      margin-bottom: 2rem;
+    }
+    h2 {
+      color: #4caf50;
+    }
+    a {
+      color: #4caf50;
+      text-decoration: none;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      color: #666;
+    }
+  </style>
 </head>
 <body>
 
-<header>
-    <h1>Respecteer Dieren - Stop Dierenmishandeling</h1>
-</header>
+  <header>
+    <h1>Welkom bij Stichting Dierenrespect</h1>
+  </header>
 
-<nav>
-    <a href="#home">Home</a>
-    <a href="#over">Over</a>
-    <a href="#acties">Acties</a>
-    <a href="#contact">Contact</a>
-</nav>
+  <main>
+    <section>
+      <p>De volgende stelling staat centraal: alle diersoorten hebben recht op een zodanig niveau van welzijn dat mishandeling en lijden geen rol meer mogen spelen. De missie van deze website is tweedelig: ten eerste het creëren van bewustwording over het belang van dierenwelzijn, en ten tweede het verstrekken van actuele en relevante informatie met als doel het verbeteren van de omgang met dieren.</p>
 
-<section id="home">
-    <h2>Welkom op onze website</h2>
-    <p>Wij staan voor dierenrespect en tegen dierenmishandeling. Dieren verdienen hetzelfde respect en de bescherming als mensen. Helaas worden veel dieren wereldwijd nog steeds mishandeld, geëxploiteerd en in gevaarlijke omstandigheden gehouden.</p>
-    <p class="important">Samen kunnen we een verschil maken. Stop dierenmishandeling!</p>
-</section>
+      <p>We nodigen je graag uit om ons te volgen op Instagram via <a href="https://www.instagram.com/goed_omgaan_met_dieren_25" target="_blank">@goed_omgaan_met_dieren_25</a>.</p>
 
-<section id="over">
-    <h2>Over Dierenmishandeling</h2>
-    <p>Dierenmishandeling komt in verschillende vormen voor, zoals fysiek geweld, verwaarlozing en illegale handel. Elke vorm van mishandeling is onaanvaardbaar en moet worden gestopt. Het is belangrijk om bewust te zijn van de rechten van dieren en voor hen op te komen wanneer dat nodig is.</p>
-    <p>Help ons de boodschap van respect en bescherming te verspreiden!</p>
-</section>
+      <p>Dieren hebben, net als mensen, gevoelens en een eigen bewustzijn. Daarom verdienen ze zorg, bescherming en respect. Toch worden dieren helaas nog vaak slecht behandeld, zowel thuis als in de industrie. Hoe meer mensen zich hiervan bewust worden, hoe groter de kans op positieve verandering. Een dier dat goed wordt behandeld leeft langer, voelt zich beter, en dat draagt uiteindelijk bij aan een gezondere samenleving voor iedereen.</p>
+    </section>
 
-<section id="acties">
-    <h2>Wat Kun Jij Doen?</h2>
-    <ul>
-        <li>Word een dierenactivist: Spreek je uit tegen dierenmishandeling.</li>
-        <li>Doneer aan dierenrechtenorganisaties.</li>
-        <li>Koop producten die dierenwelzijn bevorderen (bijv. cruelty-free producten).</li>
-        <li>Ondersteun wetten die dieren beschermen.</li>
-    </ul>
-    <button class="cta" onclick="window.location.href='https://www.animalrights.org/'">Steun de zaak</button>
-</section>
+    <section>
+      <h2>Wat jij kunt doen</h2>
+      <ul>
+        <li>Overweeg adoptie in plaats van aankoop.</li>
+        <li>Meld vermoedens van mishandeling bij de bevoegde instanties.</li>
+        <li>Steun organisaties en individuen die zich inzetten voor dierenwelzijn.</li>
+        <li>Informeer anderen over het belang van respect voor dieren.</li>
+        <li>Geef huisdieren rust, ruimte en aandacht.</li>
+      </ul>
+    </section>
 
-<section id="contact">
-    <h2>Contacteer Ons</h2>
-    <p>Heb je vragen of wil je meer weten over hoe je kunt helpen? Neem contact met ons op!</p>
-    <p>Email: <a href="mailto:info@dierenrespect.nl">info@dierenrespect.nl</a></p>
-</section>
+    <section>
+      <h2>Over ons</h2>
+      <p>Wij zijn een groep scholieren die zich inzet voor het welzijn van dieren. Met deze website willen we praktische tips en informatie delen om de publieke bewustwording te vergroten en de omgang met dieren in Nederland te verbeteren.</p>
+      <p>Door samen te werken geloven we dat we daadwerkelijk verandering kunnen realiseren.</p>
+    </section>
+  </main>
 
-<footer>
-    <p>&copy; 2025 DierenRespect. Alle rechten voorbehouden.</p>
-    <p class="social">Volg ons op Instagram: <a href="https://www.instagram.com/goed_omgaan_met_dieren_25" target="_blank">@goed_omgaan_met_dieren_25</a></p>
-</footer>
+  <footer>
+    © 2025 Stichting Dierenrespect
+  </footer>
 
-</body>
-</html>
-<!DOCTYPE html>
-<html lang="nl">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welkom bij DierenRespect</title>
-</head>
-<body>
-    <h1>Welkom op onze website!</h1>
-    <p>We staan voor dierenrespect en tegen dierenmishandeling.</p>
 </body>
 </html>
 
